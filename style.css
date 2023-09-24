@@ -6,3 +6,17 @@ h1{
 span{
     color: black;
 }
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.hero{
+
+max-width: 100%;
+background-image: url(./image/bg1.png);
+
+}
